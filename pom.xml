@@ -39,7 +39,7 @@
 						<businessGroup>TCS</businessGroup>
 						<username>${username}</username>
 						<password>${password}</password>
-						<applicationName>hello_world</applicationName>
+						<applicationName>hello-world</applicationName>
 						<environment>Sandbox</environment>
 						<workers>1</workers>
 						<workerType>MICRO</workerType>
