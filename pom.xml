@@ -41,7 +41,6 @@
 						<password>${password}</password>
 						<applicationName>hello_world</applicationName>
 						<environment>Sandbox</environment>
-						<!-- region>us-east-1</region> -->
 						<workers>1</workers>
 						<workerType>MICRO</workerType>
 						<properties>
